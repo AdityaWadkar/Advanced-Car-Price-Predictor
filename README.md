@@ -23,7 +23,7 @@ Whether you're an aspiring data scientist, a machine learning enthusiast, or sim
 
 ## 🔴 Video tutorial!
 
-[<img src="https://github.com/AdityaWadkar/Advanced-Car-Price-Predictor/assets/67093170/47b1e44c-2fa7-4137-b514-fea26932b918">](https://youtu.be/CyXJdFlbTM)
+[<img src="https://github.com/AdityaWadkar/Advanced-Car-Price-Predictor/assets/67093170/47b1e44c-2fa7-4137-b514-fea26932b918">](https://youtu.be/fZyrNhODfBw)
 ## Authors
 
 - [@Aditya Wadkar](https://www.github.com/AdityaWadkar)
